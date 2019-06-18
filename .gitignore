@@ -1,0 +1,22 @@
+venv/
+htmlcov/
+build/
+dist/
+*.egg-info/
+.vscode/
+.vs/
+.tox/
+*.pyc
+.secrets
+docs/_build
+.coverage
+.pypirc
+*.suo
+*.sln
+*.pyproj
+# this project is just a template
+*.md
+!README.md
+blog/output/
+blog/cache/
+blog/.doit*
